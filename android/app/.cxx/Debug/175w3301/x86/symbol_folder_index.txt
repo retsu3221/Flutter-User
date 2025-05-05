@@ -1,0 +1,1 @@
+C:\laragon\www\webservis\vendor\vigenesia\build\app\intermediates\cxx\Debug\175w3301\obj\x86

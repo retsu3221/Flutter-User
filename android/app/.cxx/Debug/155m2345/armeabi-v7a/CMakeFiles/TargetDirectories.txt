@@ -1,0 +1,2 @@
+C:/laragon/www/webservis/vendor/vigenesia/android/app/.cxx/Debug/155m2345/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/laragon/www/webservis/vendor/vigenesia/android/app/.cxx/Debug/155m2345/armeabi-v7a/CMakeFiles/rebuild_cache.dir
